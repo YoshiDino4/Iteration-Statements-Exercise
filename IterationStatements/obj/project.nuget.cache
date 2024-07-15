@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Owajx2GxMHTI/vMU92uTfZKYltOjw6GdVsSMuk7MdFzvpzZgHUZuE88G97bow19PXkOf2clTg+XYMbhE9XVm0g==",
+  "dgSpecHash": "zmN4iXGgs2wJrRe09DdOylQX2GA4IaTI5opPD5N9fu2C/oTw2n68qH9jgapi/DsjZN79RuS2XjDVDWU4+yoxpA==",
   "success": true,
-  "projectFilePath": "\\\\vmware-host\\Shared Folders\\Desktop\\repos\\csharp-31\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ybaja\\Downloads\\OneDrive\\Desktop\\repos\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ybaja\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ybaja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ybaja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ybaja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
